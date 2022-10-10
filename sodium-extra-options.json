@@ -18,7 +18,7 @@
   "detail_settings": {
     "sky": true,
     "sun_moon": true,
-    "stars": true,
+    "stars": false,
     "rain_snow": true,
     "biome_colors": true,
     "sky_colors": true
@@ -42,7 +42,7 @@
     "show_f_p_s_extended": true,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
-    "use_adaptive_sync": true,
+    "use_adaptive_sync": false,
     "cloud_height": 192,
     "toasts": true,
     "instant_sneak": false,
