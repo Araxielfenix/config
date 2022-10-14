@@ -42,7 +42,7 @@
     "hideEnchant": false
   },
   "sneakMode": "SNEAK_DISABLE",
-  "breakInCreative": false,
+  "breakInCreative": true,
   "lootInCreative": true,
   "notificationMode": "ACTION_BAR"
 }
