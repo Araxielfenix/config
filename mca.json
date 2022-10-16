@@ -9,7 +9,7 @@
   "villagerTagsHacks": true,
   "enableInfection": true,
   "allowGrimReaper": true,
-  "villagerChatPrefix": "Aldeano",
+  "villagerChatPrefix": "(Aldeano) ",
   "canHurtBabies": true,
   "enterVillageNotification": true,
   "villagerMarriageNotification": true,
