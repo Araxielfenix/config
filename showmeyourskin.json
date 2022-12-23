@@ -4,11 +4,7 @@
   "fadeOutTime": 2.0,
   "global": {
     "pieces": {
-      "FEET": {
-        "transparency": 0,
-        "enchantGlint": true
-      },
-      "LEGS": {
+      "HEAD": {
         "transparency": 0,
         "enchantGlint": true
       },
@@ -16,7 +12,11 @@
         "transparency": 0,
         "enchantGlint": true
       },
-      "HEAD": {
+      "LEGS": {
+        "transparency": 0,
+        "enchantGlint": true
+      },
+      "FEET": {
         "transparency": 0,
         "enchantGlint": true
       }
@@ -28,11 +28,7 @@
   "overrides": {
     "878f5b43-84b1-4e53-b48c-38add73da0f6": {
       "pieces": {
-        "FEET": {
-          "transparency": 0,
-          "enchantGlint": true
-        },
-        "LEGS": {
+        "HEAD": {
           "transparency": 0,
           "enchantGlint": true
         },
@@ -40,7 +36,11 @@
           "transparency": 0,
           "enchantGlint": true
         },
-        "HEAD": {
+        "LEGS": {
+          "transparency": 0,
+          "enchantGlint": true
+        },
+        "FEET": {
           "transparency": 0,
           "enchantGlint": true
         }
@@ -51,11 +51,7 @@
     },
     "6d1396f5-d366-4c19-bc26-4d78f60cd613": {
       "pieces": {
-        "FEET": {
-          "transparency": 0,
-          "enchantGlint": true
-        },
-        "LEGS": {
+        "HEAD": {
           "transparency": 0,
           "enchantGlint": true
         },
@@ -63,7 +59,11 @@
           "transparency": 0,
           "enchantGlint": true
         },
-        "HEAD": {
+        "LEGS": {
+          "transparency": 0,
+          "enchantGlint": true
+        },
+        "FEET": {
           "transparency": 0,
           "enchantGlint": true
         }
