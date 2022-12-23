@@ -8,11 +8,11 @@
         "transparency": 0,
         "enchantGlint": true
       },
-      "CHEST": {
+      "LEGS": {
         "transparency": 0,
         "enchantGlint": true
       },
-      "LEGS": {
+      "CHEST": {
         "transparency": 0,
         "enchantGlint": true
       },
@@ -32,11 +32,11 @@
           "transparency": 0,
           "enchantGlint": true
         },
-        "CHEST": {
+        "LEGS": {
           "transparency": 0,
           "enchantGlint": true
         },
-        "LEGS": {
+        "CHEST": {
           "transparency": 0,
           "enchantGlint": true
         },
@@ -55,11 +55,11 @@
           "transparency": 0,
           "enchantGlint": true
         },
-        "CHEST": {
+        "LEGS": {
           "transparency": 0,
           "enchantGlint": true
         },
-        "LEGS": {
+        "CHEST": {
           "transparency": 0,
           "enchantGlint": true
         },
