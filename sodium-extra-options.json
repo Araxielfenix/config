@@ -18,7 +18,7 @@
   "detail_settings": {
     "sky": true,
     "sun_moon": true,
-    "stars": false,
+    "stars": true,
     "rain_snow": true,
     "biome_colors": true,
     "sky_colors": true
